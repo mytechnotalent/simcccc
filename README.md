@@ -2,12 +2,12 @@
 
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
-<br><br>
+<br>
 
 # Serial Interactive Meshtastic Custom Channel Chat Client
 Serial Interactive Meshtastic Custom Channel Chat Client which chats on a Custom Channel over serial.
 
-<br><br>
+<br>
 
 ### STEP 1: `python3 -m venv venv`
 ### STEP 2: `source venv/bin/activate`
@@ -162,5 +162,5 @@ if __name__ == "__main__":
 
 <br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
